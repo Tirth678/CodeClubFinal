@@ -5,23 +5,23 @@ import ServiceCard from './ServiceCard';
 const ServicesGrid = () => {
   const services = [
     {
-      title: 'Design & Branding',
-      description: 'Crafting visually compelling and cohesive brand identities that captivate and engage audiences.',
+      title: 'Developing Innovative Projects',
+      description: 'We focus on creating impactful coding projects that solve real-world problems and help members enhance their technical skills.',
       Icon: Palette
     },
     {
-      title: 'Digital Marketing',
-      description: 'Implementing strategic online campaigns to boost brand visibility and drive targeted traffic.',
+      title: 'Organizing Offline Events',
+      description: 'We host hackathons, workshops, and interactive sessions to foster collaboration and practical learning among students.',
       Icon: Monitor
     },
     {
-      title: 'IoT & Hardware',
-      description: 'Developing innovative hardware solutions integrated with the Internet of Things for enhanced connectivity.',
+      title: 'Showcasing Achievements',
+      description: 'With the launch of our official website, we highlight our projects, events, and initiatives, reflecting our dedication to innovation and community.',
       Icon: Wifi
     },
     {
-      title: 'Computer Vision & AI',
-      description: 'Leveraging advanced algorithms to interpret visual data and automate complex tasks.',
+      title: 'Building a Collaborative Community',
+      description: 'We aim to provide a platform where students can connect, share knowledge, and grow together in the field of technology.',
       Icon: Brain
     }
   ];
